@@ -53,7 +53,7 @@ See more at https://thingpulse.com
 
 // WIFI
 const char* WIFI_SSID = "cairo720";
-const char* WIFI_PWD = "cairobeanlover";
+const char* WIFI_PWD = "xxxxxxx";
 
 #define TZ              -5       // (utc+) TZ in hours
 #define DST_MN          60      // use 60mn for summer time in some countries
